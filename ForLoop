@@ -1,0 +1,9 @@
+# For loop using string instead of "range"
+for i in "name":
+    print(i);
+    
+
+#For loop inside list. Converting int to string and again to int
+a = 54321;
+a1 = [int(i) for i in str(a)];
+print(a1);
