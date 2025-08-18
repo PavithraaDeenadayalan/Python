@@ -1,2 +1,1 @@
-# Python
-simple Python programs
+# Python 
